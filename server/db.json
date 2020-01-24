@@ -1,0 +1,58 @@
+{
+    "ubicaciones": [
+        {
+            "estudiante": "Johao",
+            "longitud": -0.220071,
+            "latitud": -78.506284,
+            "descripcion": "Casa Johao"
+        },
+        {
+            "estudiante": "Juan",
+            "longitud": -0.0960491,
+            "latitud": -78.3062059,
+            "descripcion": "Casa Juan"
+        },
+        {
+            "estudiante": "Joel",
+            "longitud": -0.207011,
+            "latitud": -78.524207,
+            "descripcion": "Casa Joel"
+        },
+        {
+            "estudiante": "Christian",
+            "longitud": -0.002280,
+            "latitud": -78.457977,
+            "descripcion": "Casa Christian"
+        },
+        {
+            "estudiante": "Kevin",
+            "longitud": -0.215391,
+            "latitud": -78.514949,
+            "descripcion": "Casa Kevin"
+        },
+        {
+            "estudiante": "Noemi",
+            "longitud": -0.332345,
+            "latitud":  -78.533779,
+            "descripcion": "Casa Noemi"
+        },        
+        {
+            "estudiante": "Sebastian",
+            "longitud": -0.238238,
+            "latitud": -78.537097,
+            "descripcion": "Casa Sebastian"
+        },
+        {
+            "estudiante": "Sedric",
+            "longitud": -0.309369,
+            "latitud": -78.571886,
+            "descripcion": "Casa Sedric"
+        },
+        {
+            "estudiante": "Paola",
+            "longitud": -0.257768,
+            "latitud":  -78.451016,
+            "descripcion": "Casa Paola"
+        }
+    ]
+}
